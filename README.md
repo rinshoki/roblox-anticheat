@@ -4,3 +4,5 @@
 
 // VERSIONS //
 V0.1: Released script, fixed a bug that triggers the anticheat on every player. Optimized a little.
+
+While you are at it, please star the repo :D
